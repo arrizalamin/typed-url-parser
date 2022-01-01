@@ -1,0 +1,15 @@
+{
+  "name": "typed-url-parser",
+  "description": "Type-level URL parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arrizal Amin",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsd"
+  },
+  "devDependencies": {
+    "tsd": "^0.19.1",
+    "typescript": "^4.5.4"
+  }
+}
